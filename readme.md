@@ -158,6 +158,6 @@ The complete source code used in the article is available at :
 
 In conclusion, custom annotations in Spring Boot, like the **@ErrorHandler** annotation, provide a powerful mechanism for automating repetitive tasks and enhancing code maintainability. By leveraging Spring AOP, you can streamline error handling and logging, ensuring that exceptions are consistently recorded and managed without cluttering your business logic with repetitive try-catch blocks. This approach not only simplifies your code but also centralizes error handling, making it easier to update and maintain. With custom annotations, you can focus more on your application’s core functionality while relying on robust, automated mechanisms to handle cross-cutting concerns like error logging.
 
-Happy Coding 😊!!! Leave a 👏 if you enjoyed reading it.
+Happy Coding 😊!!! Leave a ⭐ if you enjoyed reading it.
 
 
