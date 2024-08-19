@@ -7,7 +7,12 @@ import org.springframework.stereotype.Service;
 public class ExceptionTestService {
 
     @ErrorHandler
-    public void testExceptionLogging(){
-        throw new RuntimeException("Exception occurred");
+    public void testExceptionLogging() {
+
+        //simulate an exception
+        if (true) {
+            throw new RuntimeException("Exception occurred");
+        }
     }
+
 }
